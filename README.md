@@ -27,4 +27,11 @@
 </div>
 
 
-[![](https://visitcount.itsvg.in/api?id=atakankarakoc&icon=5&color=3)](https://visitcount.itsvg.in)
+<hr>
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in/api?id=atakankarakoc&icon=5&color=3">
+    <img src="https://visitcount.itsvg.in/api?id=atakankarakoc&icon=5&color=3" alt="Visit Count">
+  </a>
+</div>
+
