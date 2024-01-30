@@ -3,13 +3,13 @@
 🌱 I’m currently learning React and .Net<br>
 
 # My Projects
-- [💳 E-commerce]()
-- [💻 Data Structure]()
-- [🌳🩸 Decision Tree]()
-- [🖼️🔍 VGG16]()
-- [📞 Phone Operator]()
-- [🗳️ Election Survey]()
-- [🔄➡️ Fixed Point Iteration]()
+- [💳 E-commerce](): A straightforward e-commerce application 
+- [💻 Data Structure](): 
+- [🌳🩸 Decision Tree]():
+- [🖼️🔍 VGG16]():
+- [📞 Phone Operator]():
+- [🗳️ Election Survey](https://github.com/atakankarakoc/Election-Survey): Collection, Processing, and Graphing the 2023 Presidential Election Surveys 
+- [🔄➡️ Fixed Point Iteration](https://github.com/atakankarakoc/FixedPointIteration): To solve the given equation using the fixed point iteration method, a graph of the equation will be drawn and each root value found in the graph will be shown with an animation. The solution for each iteration will be written.
 - [🍽️🤔 Dining Philosopher Problem with Resource Hierarchy]()
 
 # 💻 Tech Stack:
