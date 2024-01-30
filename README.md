@@ -4,7 +4,7 @@
 
 # My Projects
 - [💳 E-commerce](): A straightforward e-commerce application 
-- [💻 Data Structure](): 
+- [💻 Data Structure Semester Project](): 
 - [🌳🩸 Decision Tree]():
 - [🖼️🔍 VGG16]():
 - [📞 Phone Operator]():
