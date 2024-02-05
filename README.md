@@ -4,10 +4,10 @@
 
 # My Projects
 - [💳 E-commerce](): A straightforward e-commerce application 
-- [💻 Data Structure Semester Project](): 
-- [🌳🩸 Decision Tree]():
-- [🖼️🔍 VGG16]():
-- [📞 Phone Operator]():
+- [💻 Data Structure Semester Project](): Solving the project given within the scope of the course using appropriate data structures
+- [🌳🩸 Decision Tree](): Diagnosis of breast cancer using a Decision Tree
+- [🖼️🔍 VGG16](): Automatic hamburger ingredients labelling with VGG16 
+- [📞 Phone Operator](): Using Thread to simulate a situation where a call is made from city A to city B using only 2 independent lines
 - [🗳️ Election Survey](https://github.com/atakankarakoc/Election-Survey): Collection, Processing, and Graphing the 2023 Presidential Election Surveys 
 - [🔄➡️ Fixed Point Iteration](https://github.com/atakankarakoc/FixedPointIteration): To solve the given equation using the fixed point iteration method, a graph of the equation will be drawn and each root value found in the graph will be shown with an animation. The solution for each iteration will be written.
 - [🍽️🤔 Dining Philosopher Problem with Resource Hierarchy]()
