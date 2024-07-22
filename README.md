@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🌱 I’m currently learning React and .Net<br>
+🌱 I’m currently learning React Native and NodeJs<br>
 
 # My Projects
 - [💳 E-commerce](): A straightforward e-commerce application 
